@@ -26,17 +26,17 @@ Movix App is built using the following technologies:
 - Sass
 
 ## Movie Banner
-![Screenshot (37)](https://github.com/samerr07/Movix-App/assets/112320710/a8bb50d6-89f5-4477-ab3a-42caf9dbf265)
+![Screenshot (37)](https://github.com/samerr07/Movix-App/assets/112320710/ccce50e6-e21c-44d7-ba2e-c436a2e6943f)
 
 ## Home Section
-![Screenshot (38)](https://github.com/samerr07/Movix-App/assets/112320710/326f5dbd-2b9f-494c-bf65-925b4437581d)
-![Screenshot (39)](https://github.com/samerr07/Movix-App/assets/112320710/a0c763e9-b6d5-418e-ba47-8ce79a36bc61)
+![Screenshot (38)](https://github.com/samerr07/Movix-App/assets/112320710/1db18e8a-5ee9-4dbb-bfd6-a26c0682aeb8)
+![Screenshot (39)](https://github.com/samerr07/Movix-App/assets/112320710/bb251895-781a-4052-9a55-03a400eec4a1)
 
 ## Search Result
-![Screenshot (41)](https://github.com/samerr07/Movix-App/assets/112320710/d920cc1b-e1c8-4700-8a28-6c5b446f3797)
+![Screenshot (41)](https://github.com/samerr07/Movix-App/assets/112320710/4a8a1a1e-f311-4d59-871a-0335d1e0b884)
 
 ## Filter Section 
-![Screenshot (40)](https://github.com/samerr07/Movix-App/assets/112320710/e81e4dd3-cf1d-4544-bfd9-cada6e9dc0d2)
+![Screenshot (40)](https://github.com/samerr07/Movix-App/assets/112320710/aba9e196-70e8-46aa-9e3c-8a527d025e6d)
 
 
 # React + Vite
