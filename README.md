@@ -25,6 +25,19 @@ Movix App is built using the following technologies:
 - Redux
 - Sass
 
+## Movie Banner
+![Screenshot (37)](https://github.com/samerr07/Movix-App/assets/112320710/a8bb50d6-89f5-4477-ab3a-42caf9dbf265)
+
+## Home Section
+![Screenshot (38)](https://github.com/samerr07/Movix-App/assets/112320710/326f5dbd-2b9f-494c-bf65-925b4437581d)
+![Screenshot (39)](https://github.com/samerr07/Movix-App/assets/112320710/a0c763e9-b6d5-418e-ba47-8ce79a36bc61)
+
+## Search Result
+![Screenshot (41)](https://github.com/samerr07/Movix-App/assets/112320710/d920cc1b-e1c8-4700-8a28-6c5b446f3797)
+
+## Filter Section 
+![Uploading Screenshot (40).png…]()
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
