@@ -36,7 +36,8 @@ Movix App is built using the following technologies:
 ![Screenshot (41)](https://github.com/samerr07/Movix-App/assets/112320710/d920cc1b-e1c8-4700-8a28-6c5b446f3797)
 
 ## Filter Section 
-![Uploading Screenshot (40).png…]()
+![Screenshot (40)](https://github.com/samerr07/Movix-App/assets/112320710/e81e4dd3-cf1d-4544-bfd9-cada6e9dc0d2)
+
 
 # React + Vite
 
